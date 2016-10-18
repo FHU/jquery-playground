@@ -1,5 +1,5 @@
 var main = function () {
-    'use strict';
+    "use strict";
 
     var allTheThings = ["XBX", "PKA", "EP", "XCD", "ON", "PM"];
 
@@ -14,8 +14,6 @@ var main = function () {
             $(".panel-body p").text(s);
 
         });
-
-
 
 }
 
